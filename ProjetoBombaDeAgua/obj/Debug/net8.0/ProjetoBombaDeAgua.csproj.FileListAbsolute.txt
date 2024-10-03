@@ -1,0 +1,14 @@
+C:\Users\Alunos\ProjetosC# - GM\ProjetoBombaDeAgua\bin\Debug\net8.0\ProjetoBombaDeAgua.exe
+C:\Users\Alunos\ProjetosC# - GM\ProjetoBombaDeAgua\bin\Debug\net8.0\ProjetoBombaDeAgua.deps.json
+C:\Users\Alunos\ProjetosC# - GM\ProjetoBombaDeAgua\bin\Debug\net8.0\ProjetoBombaDeAgua.runtimeconfig.json
+C:\Users\Alunos\ProjetosC# - GM\ProjetoBombaDeAgua\bin\Debug\net8.0\ProjetoBombaDeAgua.dll
+C:\Users\Alunos\ProjetosC# - GM\ProjetoBombaDeAgua\bin\Debug\net8.0\ProjetoBombaDeAgua.pdb
+C:\Users\Alunos\ProjetosC# - GM\ProjetoBombaDeAgua\obj\Debug\net8.0\ProjetoBombaDeAgua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\ProjetosC# - GM\ProjetoBombaDeAgua\obj\Debug\net8.0\ProjetoBombaDeAgua.AssemblyInfoInputs.cache
+C:\Users\Alunos\ProjetosC# - GM\ProjetoBombaDeAgua\obj\Debug\net8.0\ProjetoBombaDeAgua.AssemblyInfo.cs
+C:\Users\Alunos\ProjetosC# - GM\ProjetoBombaDeAgua\obj\Debug\net8.0\ProjetoBombaDeAgua.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\ProjetosC# - GM\ProjetoBombaDeAgua\obj\Debug\net8.0\ProjetoBombaDeAgua.dll
+C:\Users\Alunos\ProjetosC# - GM\ProjetoBombaDeAgua\obj\Debug\net8.0\refint\ProjetoBombaDeAgua.dll
+C:\Users\Alunos\ProjetosC# - GM\ProjetoBombaDeAgua\obj\Debug\net8.0\ProjetoBombaDeAgua.pdb
+C:\Users\Alunos\ProjetosC# - GM\ProjetoBombaDeAgua\obj\Debug\net8.0\ProjetoBombaDeAgua.genruntimeconfig.cache
+C:\Users\Alunos\ProjetosC# - GM\ProjetoBombaDeAgua\obj\Debug\net8.0\ref\ProjetoBombaDeAgua.dll
